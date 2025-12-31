@@ -24,7 +24,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=32&duration=6000&color=00CFFF&background=8B008B&center=true&vCenter=true&width=650&lines=WITH+100%2B+FEATURES" alt="Typing Animation">
 </h1>
 
-> **CURRENT BOT VERSION ➜ `7.0.0 ⚡`**
+> **CURRENT BOT VERSION ➜ `7.0.0 ⚡💯`**
 
 ---
 
